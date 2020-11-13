@@ -1,0 +1,9 @@
+Designator,Comment,Parameter 1,nBlocksParameter1,Parameter 2,nBlocksParameter2,Parameter 3,nBlocksParameter3,ComponentLink1URL
+
+"A1","Ticker","","1000","","","","","https://github.com/nBlocksStudioNodes/nblocks_ticker"
+"A2","Counter","AutoResetValue","10","","","","","https://github.com/nBlocksStudioNodes/nblocks_counter"
+"A3","StringFormat","formatString","""Value: %d\n""","","","","","https://github.com/nBlocksStudioNodes/nblocks_stringformat"
+"A4","StringSerial","pinTX","USBTX","pinRX","USBRX","","","https://github.com/nBlocksStudioNodes/nblocks_stringserial"
+"B1","Ticker","","1000","","","","","https://github.com/nBlocksStudioNodes/nblocks_ticker"
+"B2","FlipFlop","triggerMode","0","","","","","https://github.com/nBlocksStudioNodes/nblocks_flipflop"
+"B3","GPOUT","pinOut","P2_1","modeString","PullNone","Preset","1","https://github.com/nBlocksStudioNodes/nblocks_gpout"
