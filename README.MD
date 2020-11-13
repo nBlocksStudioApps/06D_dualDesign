@@ -24,7 +24,7 @@ In above example using the filter we can create two C++ projects, so each flow (
 </p>
 <p align="center">
 <img
-src="doc/17.MultiBoardDesign-02.JPG"
+src="img/17.MultiBoardDesign-02.JPG"
 width = 600
 />
 </p>
